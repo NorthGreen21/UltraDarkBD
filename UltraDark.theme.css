@@ -1,0 +1,10 @@
+/**
+ * @name UltraDark
+ * @author NorthGreen21
+ * @description A theme for BetterDiscord that converts dark mode into an even darker mode.
+ * @version 0.1
+ */
+
+:root {
+    --background-tertiary: #000000;
+}
