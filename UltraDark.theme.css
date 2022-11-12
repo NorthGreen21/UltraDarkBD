@@ -5,10 +5,6 @@
  * @version 0.1
  */
 
-.scroller-3X7KbA {
-    background-color: #000000;
-}
-
-.sidebar-1tnWFu {
-    background-color: #121212;
+:root {
+    --background-primary: #000000;
 }
