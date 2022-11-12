@@ -2,9 +2,22 @@
  * @name UltraDark
  * @author NorthGreen21
  * @description A theme for BetterDiscord that converts dark mode into an even darker mode.
- * @version 0.1
+ * @version 1.0
  */
 
-:root {
-    --background-primary: #000000;
+ .theme-dark {
+    --background-primary: #121212;
+    --background-secondary: #101010;
+    --background-secondary-alt: #101010;
+    --background-tertiary: #000000;
+    --channeltextarea-background: #101010;
+    --background-modifier-accent: #202020;
+    --background-modifier-selected: #181818;
+    --scrollbar-thin-thumb: #121212;
+    --scrollbar-auto-thumb: #ffffff;
+    --scrollbar-auto-track: #121212;
+    --primary-dark-630: #101010;
+    --primary-dark-700: #151515;
+    --button-secondary-background: #202020;
+    --profile-body-background-color: #151515;
 }
